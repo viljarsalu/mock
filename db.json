@@ -1,1 +1,15 @@
-
+{
+  "1":
+  {"d":
+   {
+     "loanSum":"13,71",
+     "regularPayment":"4,92",
+     "totalInterest":"1,03",
+     "contractFee":"0",
+     "contractChangeFee":"0,78",
+     "totalSum":"14,74",
+     "payments":"3",
+     "minPeriod":"90"
+   }
+  }
+}
